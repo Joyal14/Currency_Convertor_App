@@ -15,7 +15,7 @@ class CurrencyConvertMaterialPage extends StatelessWidget {
     );
 
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 118, 144, 157),
+      backgroundColor: const Color.fromARGB(255, 99, 138, 158),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
